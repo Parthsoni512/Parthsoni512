@@ -14,13 +14,6 @@ Here are some of the technologies and tools I'm familiar with:
 - **Skills:** Active Directory, O365, Device Management, IAM
 - **Tools:** Splunk, Cyber Arc, Service Now, Datto Backups, Sentinel One, Intune
 
-## 📈 GitHub Stats
-
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
-## 📊 Top Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🚀 Skills
 
