@@ -1,4 +1,4 @@
-# [Parth Soni]'s Profile
+# Parth Soni's Profile
 
 ## 👋 Hello World!
 
