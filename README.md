@@ -20,6 +20,7 @@ Here are some of the technologies and tools I'm familiar with:
 
 ### Cloud
 ![Azure](https://img.shields.io/badge/Azure-★★★☆☆-blue)
+![AWS](https://img.shields.io/badge/AWS-★★★☆☆-red)
 ![GCP](https://img.shields.io/badge/GCP-★★☆☆☆-green)
 
 
