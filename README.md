@@ -38,9 +38,9 @@ Here are some of the technologies and tools I'm familiar with:
 ## 🤝 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/parthsoni512)
-Feel free to explore my repositories and let's connect! If you have any questions or suggestions, don't hesitate to reach out.
+Feel free to explore my profile and let's connect to devlop new Automations! If you have any questions or suggestions, don't hesitate to reach out.
 
-Happy coding! 👩‍💻🚀
+Happy Automating! ⚙️🔨👩‍💻🚀
 
 
 
