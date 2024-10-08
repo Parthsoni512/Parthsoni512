@@ -5,14 +5,14 @@ Welcome to my GitHub profile! I'm Parth Soni, a Systems Analyst with a passion f
 ## 🌐 About Me
 
 - 🎓 I'm a Systems Analyst at Mobia Technology Innovations.
-- 🌱 I'm always eager to learn and explore new technologies.
+- 🌱 I'm always eager to learn and explore new technologies and creating new automation and integration of tools.
 
 ## 💻 Tech Stack
 
 Here are some of the technologies and tools I'm familiar with:
 
-- **Skills:** Ansible, Git, GCP, Azure, Terraform, Active Directory, O365, Device Management, IAM, Powershell
-- **Tools:** GitLab, Service Now, Cyber Arc, Datto Backups, Sentinel One, Intune
+- **Skills:** Ansible, Git, Google Cloud, Azure, Terraform, Active Directory, O365, Device Management, IAM, Powershell
+- **Tools:** GitLab, Service Now, Slack, Cyber Arc, Datto Backups, Sentinel One, Intune
 
 
 
@@ -20,8 +20,9 @@ Here are some of the technologies and tools I'm familiar with:
 
 ### Cloud
 ![Azure](https://img.shields.io/badge/Azure-★★★☆☆-blue)
-![AWS](https://img.shields.io/badge/AWS-★★☆☆☆-red)
 ![GCP](https://img.shields.io/badge/GCP-★★★☆☆-green)
+![AWS](https://img.shields.io/badge/AWS-★★☆☆☆-red)
+
 
 
 ### Web Development
