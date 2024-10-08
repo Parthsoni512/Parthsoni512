@@ -11,8 +11,8 @@ Welcome to my GitHub profile! I'm Parth Soni, a Systems Analyst with a passion f
 
 Here are some of the technologies and tools I'm familiar with:
 
-- **Skills:** Active Directory, O365, Device Management, IAM, Git, GCP, Azure, Terraform, Powershell
-- **Tools:** Splunk, Cyber Arc, Service Now, Datto Backups, Sentinel One, Intune
+- **Skills:** Ansible, Git, GCP, Azure, Terraform, Active Directory, O365, Device Management, IAM, Powershell
+- **Tools:** GitLab, Service Now, Cyber Arc, Datto Backups, Sentinel One, Intune
 
 
 
@@ -20,8 +20,8 @@ Here are some of the technologies and tools I'm familiar with:
 
 ### Cloud
 ![Azure](https://img.shields.io/badge/Azure-★★★☆☆-blue)
-![AWS](https://img.shields.io/badge/AWS-★★★☆☆-red)
-![GCP](https://img.shields.io/badge/GCP-★★☆☆☆-green)
+![AWS](https://img.shields.io/badge/AWS-★★☆☆☆-red)
+![GCP](https://img.shields.io/badge/GCP-★★★☆☆-green)
 
 
 ### Web Development
@@ -31,6 +31,7 @@ Here are some of the technologies and tools I'm familiar with:
 
 ### Tools & Frameworks
 ![Git](https://img.shields.io/badge/Git-★★★☆☆-red)
+![Zappier](https://img.shields.io/badge/Zappier-★★★☆☆-green)
 ![VS Code](https://img.shields.io/badge/VS_Code-★★☆☆☆-blue)
 ![Docker](https://img.shields.io/badge/Docker-★☆☆☆☆-green)
 
