@@ -32,16 +32,16 @@ Here are some of the technologies and tools I'm familiar with:
 
 
 ### Web Development
-![HTML](https://img.shields.io/badge/HTML-★★★★☆-red)
+![HTML](https://img.shields.io/badge/HTML-★★★★☆-blue)
 ![CSS](https://img.shields.io/badge/CSS-★★★☆☆-blue)
 
 
 ### Tools & Frameworks
 ![Git](https://img.shields.io/badge/Git-★★★☆☆-red)
 ![Zappier](https://img.shields.io/badge/Zappier-★★★☆☆-green)
-![VS Code](https://img.shields.io/badge/VS_Code-★★☆☆☆-blue)
-![Docker](https://img.shields.io/badge/Docker-★★★☆☆-green)
-![GitLab](https://img.shields.io/badge/GitLab-★★★★☆-green)
+![VS Code](https://img.shields.io/badge/VS_Code-★★☆☆☆-purple)
+![Docker](https://img.shields.io/badge/Docker-★★★☆☆-Blue)
+![GitLab](https://img.shields.io/badge/GitLab-★★★★☆-orange)
 
 ## 🤝 Connect with Me
 
