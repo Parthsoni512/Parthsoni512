@@ -38,7 +38,7 @@ Here are some of the technologies and tools I'm familiar with:
 
 ### Tools & Frameworks
 ![Git](https://img.shields.io/badge/Git-★★★☆☆-red)
-![Zappier](https://img.shields.io/badge/Zappier-★★★☆☆-green)
+![Zappier](https://img.shields.io/badge/Zappier-★★★☆☆-yellow)
 ![VS Code](https://img.shields.io/badge/VS_Code-★★☆☆☆-purple)
 ![Docker](https://img.shields.io/badge/Docker-★★★☆☆-Blue)
 ![GitLab](https://img.shields.io/badge/GitLab-★★★★☆-orange)
