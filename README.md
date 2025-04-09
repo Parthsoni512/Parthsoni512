@@ -19,9 +19,15 @@ Here are some of the technologies and tools I'm familiar with:
 ## 🚀 Skills
 
 ### Cloud
-![Azure](https://img.shields.io/badge/Azure-★★★☆☆-blue)
 ![GCP](https://img.shields.io/badge/GCP-★★★★☆-green)
+![Azure](https://img.shields.io/badge/Azure-★★★☆☆-blue)
 ![AWS](https://img.shields.io/badge/AWS-★★☆☆☆-red)
+
+### RedHat 
+![OpenShift](https://img.shields.io/badge/OpenShift-★★★☆☆-red)
+![OpenShift Virtualization](https://img.shields.io/badge/OpenShiftVirt-★★★☆☆-red)
+![Ansible](https://img.shields.io/badge/Ansible-★★☆☆☆-red)
+
 
 
 
@@ -34,7 +40,8 @@ Here are some of the technologies and tools I'm familiar with:
 ![Git](https://img.shields.io/badge/Git-★★★☆☆-red)
 ![Zappier](https://img.shields.io/badge/Zappier-★★★☆☆-green)
 ![VS Code](https://img.shields.io/badge/VS_Code-★★☆☆☆-blue)
-![Docker](https://img.shields.io/badge/Docker-★☆☆☆☆-green)
+![Docker](https://img.shields.io/badge/Docker-★★★☆☆-green)
+![GitLab](https://img.shields.io/badge/GitLab-★★★★☆-green)
 
 ## 🤝 Connect with Me
 
