@@ -23,19 +23,6 @@ Here are some of the technologies and tools I'm familiar with:
 ![Azure](https://img.shields.io/badge/Azure-★★★☆☆-blue)
 ![AWS](https://img.shields.io/badge/AWS-★★☆☆☆-red)
 
-### RedHat 
-![OpenShift](https://img.shields.io/badge/OpenShift-★★★☆☆-red)
-![OpenShift Virtualization](https://img.shields.io/badge/OpenShiftVirt-★★★☆☆-red)
-![Ansible](https://img.shields.io/badge/Ansible-★★☆☆☆-red)
-
-
-
-
-### Web Development
-![HTML](https://img.shields.io/badge/HTML-★★★★☆-blue)
-![CSS](https://img.shields.io/badge/CSS-★★★☆☆-blue)
-
-
 ### Tools
 ![Temporal](https://img.shields.io/badge/Temporal-★★★☆☆-Black)
 ![Git](https://img.shields.io/badge/Git-★★★☆☆-red)
@@ -43,6 +30,18 @@ Here are some of the technologies and tools I'm familiar with:
 ![Terraform](https://img.shields.io/badge/Terraform-★★★★☆-purple)
 ![Docker](https://img.shields.io/badge/Docker-★★★☆☆-Blue)
 ![GitHub](https://img.shields.io/badge/GitLab-★★★★☆-orange)
+
+### RedHat 
+![OpenShift](https://img.shields.io/badge/OpenShift-★★★☆☆-red)
+![Ansible](https://img.shields.io/badge/Ansible-★★☆☆☆-red)
+
+
+### Web Development
+![HTML](https://img.shields.io/badge/HTML-★★★★☆-blue)
+![CSS](https://img.shields.io/badge/CSS-★★★☆☆-blue)
+
+
+
 
 ## 🤝 Connect with Me
 
