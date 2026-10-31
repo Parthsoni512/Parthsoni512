@@ -7,14 +7,6 @@ Welcome to my GitHub profile! I'm Parth Soni, a Senior Systems Analyst passionat
 - 🎓 I'm a Senior Systems Analyst
 - 🌱 I'm always eager to learn and explore new technologies and creating new automation and integration of tools.
 
-## 💻 Tech Stack
-
-Here are some of the technologies and tools I'm familiar with:
-
-- **Skills:** Ansible, Git, Google Cloud, Azure, Terraform, Active Directory, O365, Device Management, IAM, Powershell
-- **Tools:** GitLab, Service Now, Slack, Cyber Arc, Datto Backups, Sentinel One, Intune
-
-
 
 ## 🚀 Skills
 
