@@ -1,10 +1,10 @@
 # 👋 Hello World!
 
-Welcome to my GitHub profile! I'm Parth Soni, a Systems Analyst with a passion for DevOps and Cyber Security.
+Welcome to my GitHub profile! I'm Parth Soni, a Senior Systems Analyst passionate about DevOps and Cybersecurity.
 
 ## 🌐 About Me
 
-- 🎓 I'm a Systems Analyst at Mobia Technology Innovations.
+- 🎓 I'm a Senior Systems Analyst
 - 🌱 I'm always eager to learn and explore new technologies and creating new automation and integration of tools.
 
 ## 💻 Tech Stack
@@ -36,12 +36,13 @@ Here are some of the technologies and tools I'm familiar with:
 ![CSS](https://img.shields.io/badge/CSS-★★★☆☆-blue)
 
 
-### Tools & Frameworks
+### Tools
+![Temporal](https://img.shields.io/badge/Temporal-★★★☆☆-Black)
 ![Git](https://img.shields.io/badge/Git-★★★☆☆-red)
 ![Zappier](https://img.shields.io/badge/Zappier-★★★☆☆-yellow)
-![VS Code](https://img.shields.io/badge/VS_Code-★★☆☆☆-purple)
+![Terraform](https://img.shields.io/badge/Terraform-★★★★☆-purple)
 ![Docker](https://img.shields.io/badge/Docker-★★★☆☆-Blue)
-![GitLab](https://img.shields.io/badge/GitLab-★★★★☆-orange)
+![GitHub](https://img.shields.io/badge/GitLab-★★★★☆-orange)
 
 ## 🤝 Connect with Me
 
